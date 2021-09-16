@@ -16,7 +16,11 @@ void main()
                             strcmp(G, "B") !=0  &&
                             strcmp(G, "AB") !=0   &&
                             strcmp(G, "O") !=0 )
+<<<<<<< HEAD
         printf("Blood group %s is incorrect! Please try again BRUH!!!.\n", G);
+=======
+        printf("Bruh Blood group %s is incorrect! Please try again.\n", G);
+>>>>>>> fb86d94beb7379c8563406920fa905329f75bfcf
     }  while (strcmp(G, "A") !=0  &&
                             strcmp(G, "B") !=0  &&
                             strcmp(G, "AB") !=0   &&
